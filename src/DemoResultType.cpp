@@ -1,3 +1,8 @@
+//============================================================================
+// Autor: Diardon
+// Blog : https://diardon.wordpress.com/
+//============================================================================
+
 #include <iostream>
 #include <type_traits>
 #include <utility>
